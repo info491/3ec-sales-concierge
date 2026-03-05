@@ -1,7 +1,6 @@
 {
   "name": "3ec-sales-concierge",
   "version": "1.0.0",
-  "type": "module",
   "dependencies": {
     "openai": "^4.0.0"
   }
